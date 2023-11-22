@@ -1,24 +1,27 @@
-.icon{
+.icon {
   width: 100px;
   height: 100px;
   object-fit: cover;
 }
+html {
+  scroll-snap-type: y mandatory;
+}
+section {
+  height: 100vh;
+  scroll-snap-align: start;
+  scroll-margin-top: 30px;
+}
 
-.enlarge-on-hover:hover{
+.enlarge-on-hover:hover {
   transform: scale(1.2);
   transition: transform 0.2s ease-in-out;
   font-weight: bold;
 }
 
-h4{
+h4 {
   margin-bottom: 10px;
 }
 
-h3{
+h3 {
   font-size: 30px;
-}
-
-.project{
-  width: 200px;
-  height: 170px
 }
