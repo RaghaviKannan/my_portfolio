@@ -304,11 +304,11 @@ function App() {
                 d="M2.25 6.75c0 8.284 6.716 15 15 15h2.25a2.25 2.25 0 002.25-2.25v-1.372c0-.516-.351-.966-.852-1.091l-4.423-1.106c-.44-.11-.902.055-1.173.417l-.97 1.293c-.282.376-.769.542-1.21.38a12.035 12.035 0 01-7.143-7.143c-.162-.441.004-.928.38-1.21l1.293-.97c.361-.271.528-.732.417-1.173L10.207.852A1.237 1.237 0 009.115.5H7.743A1.237 1.237 0 006.65.852L1.091 6.41C.731 6.68.564 7.141.675 7.582L1.968 12.4a1.474 1.474 0 001.61 1.24l5.207-.875c.442-.074.822-.332 1.091-.67l1.293-1.924a11.94 11.94 0 01-.671-1.092l-.876-5.207a1.474 1.474 0 00-1.24-1.61L.825 1.968A1.474 1.474 0 00.156 3.58L.5 7.743c.074.441.332.822.67 1.091l1.924 1.293c.36.269.731.436 1.172.436a12.034 12.034 0 007.143-3.96c.162-.44.004-.928-.379-1.21l-1.293-.97a1.474 1.474 0 00-1.61-1.24l-5.207.875a1.474 1.474 0 00-1.091.67l-1.924 2.886c-.24.36-.35.795-.302 1.234.053.44.257.843.584 1.17l5.206 5.207c.327.326.73.53 1.17.583.44.053.873-.062 1.233-.302l2.886-1.924a1.474 1.474 0 00.67-1.09l.875-5.207a1.474 1.474 0 00-1.24-1.61L7.743.825A1.474 1.474 0 007.582.156L12.4.5a1.474 1.474 0 001.24 1.61l5.207.875a1.474 1.474 0 001.09.67l2.886-1.924a1.474 1.474 0 00.583-1.17c-.053-.44-.257-.842-.584-1.17l-5.207-5.206a1.474 1.474 0 00-1.17-.583c-.44.053-.842.257-1.17.584L7.743.156A1.474 1.474 0 007.582 0H3.58a1.474 1.474 0 00-1.234.584L.156 3.582C.083 3.92.148 4.26.3 4.6l1.924 2.886a1.474 1.474 0 00.67 1.09l5.207.876a1.474 1.474 0 001.24-1.24L7.582 3.58A1.237 1.237 0 007.743 3.5H9.115a1.237 1.237 0 001.092.651l4.558 1.558c.36.126.651.576.651 1.092v2.25a1.237 1.237 0 00-.352.892l-1.107 4.423c-.125.5-.575.85-1.09.85H6.75a1.474 1.474 0 00-1.24.67L.584 16.766c-.47.815-.365 1.797.217 2.44l4.964 4.964c.642.583 1.625.687 2.44.217l5.206-2.946a1.474 1.474 0 00.67-1.24l-1.107-4.423a1.237 1.237 0 00-.352-.892h-.02z"
               />
             </svg>
-<<<<<<< HEAD
+
             <h4>
               LinkedIn:{" "}
               <a
-                href="http://linkedin.com/in/raghavi-kannan-60a65b1a5"
+                href="https://www.linkedin.com/in/raghavi-kannan-60a65b1a5/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="underline text-blue-500"
@@ -316,11 +316,6 @@ function App() {
                 Raghavi Kannan
               </a>
             </h4>
-||||||| 26b4b04
-            <h4>LinkedIn: <a href="https://www.linkedin.com/in/raghavi-agnes-4b6b9a193" target="_blank" rel="noopener noreferrer" className='underline text-blue-500'>Raghavi Kannan</a></h4>
-=======
-            <h4>LinkedIn: <a href="https://www.linkedin.com/in/raghavi-kannan-60a65b1a5/" target="_blank" rel="noopener noreferrer" className='underline text-blue-500'>Raghavi Kannan</a></h4>
->>>>>>> 89db2651988caad0c0193793017ce470f42070e7
           </div>
           <div className="flex space-x-4">
             <svg
@@ -342,9 +337,8 @@ function App() {
                 d="M15 3v2a2 2 0 01-2 2H11a2 2 0 01-2-2V3m4 2v7m0 0v7m0-7h-3m0 0H7"
               />
             </svg>
-<<<<<<< HEAD
             <h4>
-              Github
+              Github:{" "}
               <a
                 href="https://github.com/RaghaviKannan"
                 target="_blank"
@@ -354,11 +348,6 @@ function App() {
                 Raghavi Kannan
               </a>
             </h4>
-||||||| 26b4b04
-            <h4>Github: <a href="https://github.com/raghaviagnes" target="_blank" rel="noopener noreferrer" className='underline text-blue-500'>Raghavi Kannan</a></h4>
-=======
-            <h4>Github: <a href="https://github.com/RaghaviKannan" target="_blank" rel="noopener noreferrer" className='underline text-blue-500'>Raghavi Kannan</a></h4>
->>>>>>> 89db2651988caad0c0193793017ce470f42070e7
           </div>
         </div>
         <div className="flex justify-center mt-10">
