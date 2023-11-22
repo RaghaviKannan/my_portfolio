@@ -308,7 +308,7 @@ function App() {
             <h4>
               LinkedIn:{" "}
               <a
-                href="https://www.linkedin.com/in/raghavi-agnes-4b6b9a193"
+                href="http://linkedin.com/in/raghavi-kannan-60a65b1a5"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="underline text-blue-500"
@@ -344,9 +344,9 @@ function App() {
             </svg>
 <<<<<<< HEAD
             <h4>
-              Github:{" "}
+              Github
               <a
-                href="https://github.com/raghaviagnes"
+                href="https://github.com/RaghaviKannan"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="underline text-blue-500"
